@@ -1,0 +1,19 @@
+Origin: Alinix
+Label: Alinix
+Codename: stable
+Date: Mon, 10 Nov 2025 18:23:11 UTC
+Architectures: amd64
+Components: main
+Description: Repositório Alinix local
+MD5Sum:
+ f615974564aa2d3767825447cd3e3177 1562 main/binary-amd64/Packages
+ 456237b987c53f9044ad387b7b9cf8df 673 main/binary-amd64/Packages.gz
+ f6844dfdc6d4b83c48c89207d96bcd37 104 main/binary-amd64/Release
+SHA1:
+ 186e7d6ca4470bdfc34328237ce969804ea84008 1562 main/binary-amd64/Packages
+ 911deb8ec48ae4bf724ce74c4e38ff6f8d5d1262 673 main/binary-amd64/Packages.gz
+ 14bf484c077dd0fc09394cdf66cddfa84e4a8a09 104 main/binary-amd64/Release
+SHA256:
+ 8d27e34bda6e96b5e840040578c920318b8973d3ddad210367326908024098e3 1562 main/binary-amd64/Packages
+ cd85cbe6c727e0332d2b4da684d9be33310f91db9df230d1b9057bf6526da95f 673 main/binary-amd64/Packages.gz
+ 2d60a073a1e38cc1c4f31f5173438e0779bb16c5df0d53f14acb4afc29f0640a 104 main/binary-amd64/Release

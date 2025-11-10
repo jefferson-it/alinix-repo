@@ -1,0 +1,44 @@
+Package: alinix-gnome
+Version: 1.0
+Architecture: all
+Depends: bash, alinix-wallpapers, alinix-themes, gnome-shell
+Maintainer: Jefferson S. Souza <jeff.silvadsouza@gmail.com>
+Priority: optional
+Section: utils
+Filename: pool/main/a/alinix-gnome/alinix-gnome_1.0_all.deb
+Size: 2276
+SHA256: 8b471f0314eaa0a5fafcafcf048d6e4017a9cf1c2ded02fc60963d0afef62d55
+SHA1: 6414c37a0696501335c1dd6a869baed95acb6e7c
+MD5sum: 0e3fe8717e33b393fb016ae5dd82a27a
+Description: Scripts de configuração para Alinix GNOME
+ Executa scripts úteis durante a instalação do ambiente GNOME do Alinix.
+
+Package: alinix-themes
+Version: 1.0
+Architecture: all
+Depends: bash
+Maintainer: Jefferson S. Souza <jeff.silvadsouza@gmail.com>
+Priority: optional
+Section: utils
+Filename: pool/main/a/alinix-themes/alinix-themes_1.0_all.deb
+Size: 7825880
+SHA256: 182964bb848b67c53014482cabf6022c6ccfe1ab53c9f9094a1a7bd3e9d78bce
+SHA1: fef71b4b561428d95b7f42a198aeba84147f8f6f
+MD5sum: dfc60546f01b2df8d4d819005de1a5c0
+Description: Scripts de configuração para Alinix GNOME
+ Executa scripts úteis durante a instalação do ambiente GNOME do Alinix.
+
+Package: alinix-wallpapers
+Version: 1.0
+Architecture: all
+Depends: bash
+Maintainer: Jefferson S. Souza <jeff.silvadsouza@gmail.com>
+Priority: optional
+Section: utils
+Filename: pool/main/a/alinix-wallpapers/alinix-wallpapers_1.0_all.deb
+Size: 7721560
+SHA256: dae397c061d602e28c6be415fdd975063d493c7108050a955340f1018f6a3e86
+SHA1: 70e3acc5182c211d721a7ea71c5d6150091ad4cf
+MD5sum: f946114e0a9987168d613f31cc937eda
+Description: Papapeis de paredes do alinix
+
