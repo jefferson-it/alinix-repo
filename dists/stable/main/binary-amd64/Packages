@@ -2,16 +2,17 @@ Package: alinix-gnome
 Version: 1.0
 Architecture: all
 Depends: bash, alinix-wallpapers, alinix-themes, gnome-shell
+Recommends: gnome-shell-extension-ding, gnome-shell-extension-dash-to-dock, gnome-shell-extension-user-theme, gnome-shell-extension-drive-menu
 Maintainer: Jefferson S. Souza <jeff.silvadsouza@gmail.com>
 Priority: optional
 Section: utils
 Filename: pool/main/a/alinix-gnome/alinix-gnome_1.0_all.deb
-Size: 2284
-SHA256: 2a9fc12a0946393dca350db919ebf2bc735d1190dc5ea359528aef6aa310c21d
-SHA1: 639eeda57e35d8ecb7a1e37ea01504d509670e59
-MD5sum: 20381d0fe81e257beb1a6ce961336628
+Size: 2256
+SHA256: c98a41be9f81fc70e86647c0b28147d1883198dc6a462ceb2739ef6b4889af1d
+SHA1: a6d0aed152865eba6cf9a54aba68a09572c9512b
+MD5sum: f0eb09946e059c9679b077a8b4a66ee6
 Description: Scripts de configuração para Alinix GNOME
- Executa scripts úteis durante a instalação do ambiente GNOME do Alinix.
+  Executa scripts úteis durante a instalação do ambiente GNOME do Alinix.
 
 Package: alinix-themes
 Version: 1.0
@@ -22,9 +23,9 @@ Priority: optional
 Section: utils
 Filename: pool/main/a/alinix-themes/alinix-themes_1.0_all.deb
 Size: 7825852
-SHA256: ea6c6b77bd1b0ff5e22fe5c44d0e84485c7697a394ed9f5143fab4e522557c7e
-SHA1: 7256ea8c4a0552315a630bb012f5662b8437a8a3
-MD5sum: 124b349673b143db4e95b197a445e571
+SHA256: d1a1734136335d05e971adcffe1295eae9ffc06e22b3996df6b2be39e3542183
+SHA1: 2cd54e5e3007957fda7ea12b94256ca53bb05721
+MD5sum: 9c4abea6eb15951d7fe624f3ddf1bd89
 Description: Scripts de configuração para Alinix GNOME
  Executa scripts úteis durante a instalação do ambiente GNOME do Alinix.
 
@@ -37,8 +38,8 @@ Priority: optional
 Section: utils
 Filename: pool/main/a/alinix-wallpapers/alinix-wallpapers_1.0_all.deb
 Size: 7721342
-SHA256: 4397686a06a62af76e65a764447061a52280eb647f390b01839414f4f375a5ca
-SHA1: 5c40e3ba52e463e4cf7c28f26a89cc71c5ec5c2b
-MD5sum: 8201f7548ad114250148272fcdfc4cf1
+SHA256: e6487bc64cea99312179be939352760798fc5d8356c64e975120bc7f81edfe59
+SHA1: 4f01c042b50ccdeeaced7513f7df985c4bb386bc
+MD5sum: 5a8c56b99773bb94160764252f69618b
 Description: Papapeis de paredes do alinix
 
