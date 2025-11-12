@@ -1,18 +1,48 @@
+Package: alinix-cinnamon
+Version: 1.0
+Architecture: all
+Depends: bash
+Maintainer: Jefferson S. Souza <jeff.silvadsouza@gmail.com>
+Priority: optional
+Section: utils
+Filename: pool/main/a/alinix-cinnamon/alinix-cinnamon_1.0_all.deb
+Size: 1652
+SHA256: 7592c71cb68110ca1908c96ed16b696efadd44d642c3f6376dbfeb448b1a6ab1
+SHA1: 30fb1f67397b4c7a5d8079f99a39b37613005fcc
+MD5sum: 08d54599bad4ef2ad4ff78d28f49e6db
+Description: Scripts de configuração para Alinix Cinnamon
+  Executa scripts úteis durante a instalação do ambiente Cinnamon do Alinix.
+
 Package: alinix-gnome
 Version: 1.0
 Architecture: all
 Depends: bash, alinix-wallpapers, alinix-themes, gnome-shell
-Recommends: gnome-shell-extension-ding, gnome-shell-extension-dash-to-dock, gnome-shell-extension-user-theme, gnome-shell-extension-drive-menu
+Recommends: gnome-shell-extension-ding, gnome-shell-extension-dash-to-dock, gnome-shell-extension-user-theme, gnome-shell-extension-drive-menu, gnome-shell-extension-desktop-icons-ng
 Maintainer: Jefferson S. Souza <jeff.silvadsouza@gmail.com>
 Priority: optional
 Section: utils
 Filename: pool/main/a/alinix-gnome/alinix-gnome_1.0_all.deb
-Size: 2256
-SHA256: c98a41be9f81fc70e86647c0b28147d1883198dc6a462ceb2739ef6b4889af1d
-SHA1: a6d0aed152865eba6cf9a54aba68a09572c9512b
-MD5sum: f0eb09946e059c9679b077a8b4a66ee6
+Size: 2290
+SHA256: 58be1004fdd143133b0dd98d8fa150309639c877d5f016126f3ea048c43e5b9e
+SHA1: d4c8060c107395c44f61ca540f86663e8d8a71fa
+MD5sum: 6a5d598fc85782d9ac06a1ddded20f07
 Description: Scripts de configuração para Alinix GNOME
   Executa scripts úteis durante a instalação do ambiente GNOME do Alinix.
+
+Package: alinix-kde
+Version: 1.0
+Architecture: all
+Depends: bash, alinix-wallpapers, alinix-themes
+Maintainer: Jefferson S. Souza <jeff.silvadsouza@gmail.com>
+Priority: optional
+Section: utils
+Filename: pool/main/a/alinix-kde/alinix-kde_1.0_all.deb
+Size: 1286
+SHA256: 6d9813ac9b8119e83d2908de945227dd30527b28d34d724f98a7e0ec3b1e5fc6
+SHA1: b7eea71ce96d7bf33ffbfc1c16f7bbb574bd4db7
+MD5sum: 60c32fdb3146f9d5a53b7a7b2cf523f5
+Description: Scripts de configuração para Alinix KDE
+  Executa scripts úteis durante a instalação do ambiente KDE do Alinix.
 
 Package: alinix-themes
 Version: 1.0
@@ -22,12 +52,11 @@ Maintainer: Jefferson S. Souza <jeff.silvadsouza@gmail.com>
 Priority: optional
 Section: utils
 Filename: pool/main/a/alinix-themes/alinix-themes_1.0_all.deb
-Size: 7825852
-SHA256: d1a1734136335d05e971adcffe1295eae9ffc06e22b3996df6b2be39e3542183
-SHA1: 2cd54e5e3007957fda7ea12b94256ca53bb05721
-MD5sum: 9c4abea6eb15951d7fe624f3ddf1bd89
-Description: Scripts de configuração para Alinix GNOME
- Executa scripts úteis durante a instalação do ambiente GNOME do Alinix.
+Size: 7824804
+SHA256: 0c496ecd4b9915143e9427a86737691c0bb5b791df56be0174dbb1a379ccd0fd
+SHA1: fe51129c9a67e92b1a54b00aef6b9613f53c0869
+MD5sum: c1e93d618d2592736e787b4fefa432c0
+Description: Scripts de temas do Alinix
 
 Package: alinix-wallpapers
 Version: 1.0
@@ -37,9 +66,9 @@ Maintainer: Jefferson S. Souza <jeff.silvadsouza@gmail.com>
 Priority: optional
 Section: utils
 Filename: pool/main/a/alinix-wallpapers/alinix-wallpapers_1.0_all.deb
-Size: 7721342
-SHA256: e6487bc64cea99312179be939352760798fc5d8356c64e975120bc7f81edfe59
-SHA1: 4f01c042b50ccdeeaced7513f7df985c4bb386bc
-MD5sum: 5a8c56b99773bb94160764252f69618b
+Size: 7721326
+SHA256: 6b97bfd6a5f00ea86f3f291d2eb5ca003e934deecfc9c450b65eabfb9f64cbd6
+SHA1: a1462418e0fc8b319ad8465635174adc0f411330
+MD5sum: aa5156562e6473eb2de418314636a8fb
 Description: Papapeis de paredes do alinix
 
