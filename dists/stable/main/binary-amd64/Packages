@@ -1,15 +1,15 @@
 Package: alinix-cinnamon
-Version: 1.0.2
+Version: 1.0.3
 Architecture: all
 Depends: bash
 Maintainer: Jefferson S. Souza <jeff.silvadsouza@gmail.com>
 Priority: optional
 Section: utils
-Filename: pool/main/a/alinix-cinnamon/alinix-cinnamon_1.0.2_all.deb
-Size: 1626
-SHA256: 066d13f20953856a51bfd6c3a467ac93dfc78fee96ade3df54a3e292221949ca
-SHA1: 39b81d16ba8521757abfa887064ec57e1a9b8dca
-MD5sum: dd302edda30eb4d79b3e1b8808064618
+Filename: pool/main/a/alinix-cinnamon/alinix-cinnamon_1.0.3_all.deb
+Size: 20916
+SHA256: 5d39c77294f0bb21201929d4c5d41253747dd329154d9607480625548ae47f4d
+SHA1: 6b6eaafdb0552a1912e54dd81e16fb8fe381ca2b
+MD5sum: 50aedb78309db1eeb54edab31ee5257c
 Description: Scripts de configuração para Alinix Cinnamon
   Executa scripts úteis durante a instalação do ambiente Cinnamon do Alinix.
 
