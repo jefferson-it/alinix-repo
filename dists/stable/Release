@@ -1,19 +1,19 @@
 Origin: Alinix
 Label: Alinix
 Codename: stable
-Date: Wed, 19 Nov 2025 16:08:12 UTC
+Date: Wed, 19 Nov 2025 17:02:39 UTC
 Architectures: amd64
 Components: main
 Description: Repositório Alinix local
 MD5Sum:
- b13eefb3e7df6d10d92387c15cd979d7 2770 main/binary-amd64/Packages
- b751c0affb10138a52ace5c9fbab7cad 998 main/binary-amd64/Packages.gz
+ 383e099266eb635ecbb86c4924bc38af 2770 main/binary-amd64/Packages
+ 6707924e4d765685cbc50177a0354db1 995 main/binary-amd64/Packages.gz
  f6844dfdc6d4b83c48c89207d96bcd37 104 main/binary-amd64/Release
 SHA1:
- a62acb314bf451928098c5befd2772f5edf883c3 2770 main/binary-amd64/Packages
- 6873568c9efedaacbca2a6538401b22e53630c80 998 main/binary-amd64/Packages.gz
+ ae62be422d725a8c865f644f32ed8677933f7a43 2770 main/binary-amd64/Packages
+ 1e725f165e638cc614ca49340609d413755cb009 995 main/binary-amd64/Packages.gz
  14bf484c077dd0fc09394cdf66cddfa84e4a8a09 104 main/binary-amd64/Release
 SHA256:
- c0930b8674c9a2b827da8c3a4855b162923cb0c929f5dbac25085bff2a7273ae 2770 main/binary-amd64/Packages
- 0ee479d8cc90dcdeee9dd1a50c2d4d35a85ed74b01b9f5071f5bcfbe62d5f89a 998 main/binary-amd64/Packages.gz
+ 718f364ae6b189052cbdc325d371b557a822502f2787551b44eb144e67f53e65 2770 main/binary-amd64/Packages
+ 83ed108ba3cbaeea52b5c678a6e0a563392149187cc4935b508f594888c403ab 995 main/binary-amd64/Packages.gz
  2d60a073a1e38cc1c4f31f5173438e0779bb16c5df0d53f14acb4afc29f0640a 104 main/binary-amd64/Release

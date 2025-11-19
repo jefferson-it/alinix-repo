@@ -1,15 +1,15 @@
 Package: alinix-cinnamon
-Version: 1.0.3
+Version: 1.0.4
 Architecture: all
 Depends: bash
 Maintainer: Jefferson S. Souza <jeff.silvadsouza@gmail.com>
 Priority: optional
 Section: utils
-Filename: pool/main/a/alinix-cinnamon/alinix-cinnamon_1.0.3_all.deb
-Size: 20916
-SHA256: 5d39c77294f0bb21201929d4c5d41253747dd329154d9607480625548ae47f4d
-SHA1: 6b6eaafdb0552a1912e54dd81e16fb8fe381ca2b
-MD5sum: 50aedb78309db1eeb54edab31ee5257c
+Filename: pool/main/a/alinix-cinnamon/alinix-cinnamon_1.0.4_all.deb
+Size: 20898
+SHA256: 93385616240652540a0ab9be5b8b6afe170b1490867793b6717c2710440761da
+SHA1: c1c81f231af72a2dba3d5b83c76f5e2e2e46c5c3
+MD5sum: 100d8d60e6a2ab89ecc53defb691e367
 Description: Scripts de configuração para Alinix Cinnamon
   Executa scripts úteis durante a instalação do ambiente Cinnamon do Alinix.
 
@@ -52,10 +52,10 @@ Maintainer: Jefferson S. Souza <jeff.silvadsouza@gmail.com>
 Priority: optional
 Section: utils
 Filename: pool/main/a/alinix-themes/alinix-themes_1.0.2_all.deb
-Size: 7989598
-SHA256: d24c270281432148ae404a1ac0dfd8abbf247c9eabedf2f9ca72d67eec435c28
-SHA1: c9bd6e7447439d62d7df3a44a40b7c76d477bde3
-MD5sum: 725a0a7e719103cbdd63facaa533f010
+Size: 8008338
+SHA256: 3156f9483b3bf49b6e7dd1fc30bf7f4fb8c5a66a6823ba4ae4d28a6a3634a276
+SHA1: 241a3fd22115d2b3972510f55b07f7a3b326fbd9
+MD5sum: 1dc071f01348eac159a0ceaa36a32e79
 Description: Scripts de temas do Alinix
 
 Package: alinix-wallpapers
